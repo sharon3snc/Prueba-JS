@@ -1,0 +1,19 @@
+#container {
+padding:20px;
+}
+
+input{
+    width: 100px;
+    height: 30px;
+}
+
+button{
+    padding: 10px 30px;
+    margin-top: 20px;
+    background-color: antiquewhite;
+}
+
+.hidden{
+    display:none;
+}
+
